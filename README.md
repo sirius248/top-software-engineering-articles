@@ -25,3 +25,9 @@
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/#why-not-how) - The seven rules of a great Git commit message.
 
 * [COHESION - THE CORNERSTONE OF SOFTWARE DESIGN](https://codurance.com/software-creation/2016/03/03/cohesion-cornerstone-software-design) - Cohesion is one of the most important concepts in software design. Cohesion is at the core of the vast majority of good design principles and patterns out there, guiding separation of concerns and maintainability. The term cohesion (alongside coupling) was first introduced by Larry Constantine in the late 60s as part of Structured Design and later published in more details by W. Stevens, G. Myers, and L. Constantine in 1974. Due to the growing complexity and cost of software back in the 60s, 70s, and 80s, loads of studies and research around software design and maintainability were done. Although we can still find some of these papers and research online today, they were done in a pre-Internet era and most of the work done during that period is either lost or not easily available.
+
+* [Normalization of deviance in software: how broken practices become standard](http://danluu.com/wat/)
+
+* [Refactoring Large Software Systems](http://www.methodsandtools.com/archive/archive.php?id=98) - Refactoring a software system means to refurbish it internally without interfering with its external properties. In his famous book Martin Fowler defines refactoring as follows
+
+* [Scrum is dead: Breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
