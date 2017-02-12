@@ -1,6 +1,6 @@
 # Top Software Engineering Articles
 
-![Software engineering](http://img.pandawhale.com/159329-Software-Engineering-Tree-Swin-iqRE.png)
+![Software engineering](http://leanmagazine.net/wordpress/wp-content/uploads/2011/12/swcraftmanship-smaller-web.jpg)
 
 * [Designing something S.O.L.I.D](https://www.novoda.com/blog/designing-something-solid/) - The SOLID principles are fundamental to explaining a part of what clean code is, but sometimes explaining what SOLID means is a task in itself.
 
