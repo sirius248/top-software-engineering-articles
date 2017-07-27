@@ -31,3 +31,7 @@
 * [Refactoring Large Software Systems](http://www.methodsandtools.com/archive/archive.php?id=98) - Refactoring a software system means to refurbish it internally without interfering with its external properties. In his famous book Martin Fowler defines refactoring as follows
 
 * [Scrum is dead: Breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
+
+* [Lessons Learned in Software Development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/) Here is the list of heuristics and rules of thumb for software development.
+
+* [What Makes a Good Programmer?](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/) What makes a good programmer? It’s an interesting question to ask yourself. It makes you reflect on the craft of software development. It is also a good question to ask your colleagues. It can trigger some interesting discussions on how you work together. Here are five skills I think are crucial to have in order to be a good programmer.
